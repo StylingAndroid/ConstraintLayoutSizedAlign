@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="ConstraintLayout_Right_Align.app" target="1.8" />
+      <module name="ConstraintLayout_Sized_Align.app" target="1.8" />
+      <module name="ConstraintLayout_Sized_Align.buildSrc" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

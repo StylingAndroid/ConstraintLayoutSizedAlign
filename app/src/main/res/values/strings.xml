@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ConstraintLayout Right Align</string>
+    <string name="forename_label">Forename:</string>
+    <string name="forename_hint">Enter forename</string>
+    <string name="surname_label">Surname:</string>
+    <string name="surname_hint">Enter surname</string>
+    <string name="email_hint">Enter email address</string>
+    <string name="email_label">Email Address:</string>
+</resources>
